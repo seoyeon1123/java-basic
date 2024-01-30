@@ -34,15 +34,20 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.AccessInnerMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AccessOuterMain.executor&quot;: &quot;Run&quot;,
     &quot;Application.AccountMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BankAccountMain.executor&quot;: &quot;Run&quot;,
     &quot;Application.BookMain.executor&quot;: &quot;Run&quot;,
     &quot;Application.ClassStart1.executor&quot;: &quot;Run&quot;,
     &quot;Application.ClassStart2.executor&quot;: &quot;Run&quot;,
     &quot;Application.ClassStart3.executor&quot;: &quot;Run&quot;,
     &quot;Application.ClassStart4.executor&quot;: &quot;Run&quot;,
     &quot;Application.ClassStart5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClassStart6.executor&quot;: &quot;Run&quot;,
     &quot;Application.ConstructMain1.executor&quot;: &quot;Run&quot;,
     &quot;Application.ConstructMain2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountMain.executor&quot;: &quot;Run&quot;,
     &quot;Application.InitMain.executor&quot;: &quot;Run&quot;,
     &quot;Application.MemberDefaultMain.executor&quot;: &quot;Run&quot;,
     &quot;Application.Method1.executor&quot;: &quot;Run&quot;,
@@ -66,6 +71,7 @@
     &quot;Application.ProductOrderMain3.executor&quot;: &quot;Run&quot;,
     &quot;Application.RectangleOopMain.executor&quot;: &quot;Run&quot;,
     &quot;Application.RectangleProceduralMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpeakerMain.executor&quot;: &quot;Run&quot;,
     &quot;Application.ValueDataMain.executor&quot;: &quot;Run&quot;,
     &quot;Application.ValueObjectMain.executor&quot;: &quot;Run&quot;,
     &quot;Application.VarChange1.executor&quot;: &quot;Run&quot;,
@@ -85,20 +91,20 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="class1" />
       <recent name="pack" />
       <recent name="Construct" />
       <recent name="oop1" />
       <recent name="ref" />
-      <recent name="class1.ex" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PackageMain3">
-    <configuration name="BookMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Construct.ex.BookMain" />
+  <component name="RunManager" selected="Application.ProductOrderMain">
+    <configuration name="ClassStart3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class1.ClassStart3" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Construct.ex.*" />
+          <option name="PATTERN" value="class1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstructMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Construct.ConstructMain2" />
+    <configuration name="ClassStart5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class1.ClassStart5" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Construct.*" />
+          <option name="PATTERN" value="class1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PackageMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pack.PackageMain1" />
+    <configuration name="ClassStart6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class1.ClassStart6" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pack.*" />
+          <option name="PATTERN" value="class1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PackageMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pack.PackageMain2" />
+    <configuration name="MovieReviewMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class1.ex.MovieReviewMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pack.*" />
+          <option name="PATTERN" value="class1.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PackageMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pack.PackageMain3" />
+    <configuration name="ProductOrderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class1.ex.ProductOrderMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pack.*" />
+          <option name="PATTERN" value="class1.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PackageMain3" />
-        <item itemvalue="Application.PackageMain2" />
-        <item itemvalue="Application.PackageMain1" />
-        <item itemvalue="Application.BookMain" />
-        <item itemvalue="Application.ConstructMain2" />
+        <item itemvalue="Application.ProductOrderMain" />
+        <item itemvalue="Application.MovieReviewMain" />
+        <item itemvalue="Application.ClassStart6" />
+        <item itemvalue="Application.ClassStart5" />
+        <item itemvalue="Application.ClassStart3" />
       </list>
     </recent_temporary>
   </component>
@@ -193,6 +199,10 @@
       <workItem from="1706482313142" duration="33000" />
       <workItem from="1706486734935" duration="16044000" />
       <workItem from="1706509495930" duration="2393000" />
+      <workItem from="1706524050173" duration="83000" />
+      <workItem from="1706567879895" duration="6000" />
+      <workItem from="1706573264969" duration="20567000" />
+      <workItem from="1706608855132" duration="42000" />
     </task>
     <servers />
   </component>
@@ -202,11 +212,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/class1/ClassStart4.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ref/NullMain3.java</url>
           <line>6</line>
@@ -221,6 +226,10 @@
           </properties>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="8" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
