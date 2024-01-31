@@ -32,79 +32,89 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AccessInnerMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AccessOuterMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AccountMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BankAccountMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BookMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClassStart1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClassStart2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClassStart3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClassStart4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClassStart5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClassStart6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConstructMain1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConstructMain2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CountMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InitMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MemberDefaultMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Method1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Method2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodChange1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodChange2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodInitMain2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodInitMain3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MovieReviewMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MusicPlayerMain1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MusicPlayerMain2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MusicPlayerMain4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NullMain1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NullMain2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NullMain3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PackageMain1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PackageMain2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PackageMain3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProductOrderMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProductOrderMain2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProductOrderMain3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RectangleOopMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RectangleProceduralMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SpeakerMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ValueDataMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ValueObjectMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VarChange1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VarChange2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.practice.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AccessInnerMain.executor": "Run",
+    "Application.AccessOuterMain.executor": "Run",
+    "Application.AccountMain.executor": "Run",
+    "Application.BankAccountMain.executor": "Run",
+    "Application.BookMain.executor": "Run",
+    "Application.CarMain.executor": "Run",
+    "Application.ClassStart1.executor": "Run",
+    "Application.ClassStart2.executor": "Run",
+    "Application.ClassStart3.executor": "Run",
+    "Application.ClassStart4.executor": "Run",
+    "Application.ClassStart5.executor": "Run",
+    "Application.ClassStart6.executor": "Run",
+    "Application.ConstructMain1.executor": "Run",
+    "Application.ConstructMain2.executor": "Run",
+    "Application.CountMain.executor": "Run",
+    "Application.DataCountMain1.executor": "Run",
+    "Application.DataCountMain2.executor": "Run",
+    "Application.DataCountMain3.executor": "Run",
+    "Application.DecoDataMain.executor": "Run",
+    "Application.DecoMain1.executor": "Run",
+    "Application.DecoMain2.executor": "Run",
+    "Application.InitMain.executor": "Run",
+    "Application.JavaMemoryMain1.executor": "Run",
+    "Application.JavaMemoryMain2.executor": "Run",
+    "Application.MathArrayUtilsMain.executor": "Run",
+    "Application.MemberDefaultMain.executor": "Run",
+    "Application.Method1.executor": "Run",
+    "Application.Method2.executor": "Run",
+    "Application.MethodChange1.executor": "Run",
+    "Application.MethodChange2.executor": "Run",
+    "Application.MethodInitMain2.executor": "Run",
+    "Application.MethodInitMain3.executor": "Run",
+    "Application.MovieReviewMain.executor": "Run",
+    "Application.MusicPlayerMain1.executor": "Run",
+    "Application.MusicPlayerMain2.executor": "Run",
+    "Application.MusicPlayerMain4.executor": "Run",
+    "Application.NullMain1.executor": "Run",
+    "Application.NullMain2.executor": "Run",
+    "Application.NullMain3.executor": "Run",
+    "Application.PackageMain1.executor": "Run",
+    "Application.PackageMain2.executor": "Run",
+    "Application.PackageMain3.executor": "Run",
+    "Application.ProductOrderMain.executor": "Run",
+    "Application.ProductOrderMain2.executor": "Run",
+    "Application.ProductOrderMain3.executor": "Run",
+    "Application.RectangleOopMain.executor": "Run",
+    "Application.RectangleProceduralMain.executor": "Run",
+    "Application.SpeakerMain.executor": "Run",
+    "Application.ValueDataMain.executor": "Run",
+    "Application.ValueObjectMain.executor": "Run",
+    "Application.VarChange1.executor": "Run",
+    "Application.VarChange2.executor": "Run",
+    "Application.practice.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="static2" />
       <recent name="class1" />
       <recent name="pack" />
       <recent name="Construct" />
       <recent name="oop1" />
-      <recent name="ref" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProductOrderMain">
-    <configuration name="ClassStart3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class1.ClassStart3" />
+  <component name="RunManager" selected="Application.MathArrayUtilsMain">
+    <configuration name="CarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="static2.ex.CarMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class1.*" />
+          <option name="PATTERN" value="static2.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassStart5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class1.ClassStart5" />
+    <configuration name="DecoDataMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="static2.DecoDataMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class1.*" />
+          <option name="PATTERN" value="static2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassStart6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class1.ClassStart6" />
+    <configuration name="DecoMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="static2.DecoMain1" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class1.*" />
+          <option name="PATTERN" value="static2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MovieReviewMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class1.ex.MovieReviewMain" />
+    <configuration name="DecoMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="static2.DecoMain2" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class1.ex.*" />
+          <option name="PATTERN" value="static2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductOrderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class1.ex.ProductOrderMain" />
+    <configuration name="MathArrayUtilsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="static2.ex.MathArrayUtilsMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class1.ex.*" />
+          <option name="PATTERN" value="static2.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ProductOrderMain" />
-        <item itemvalue="Application.MovieReviewMain" />
-        <item itemvalue="Application.ClassStart6" />
-        <item itemvalue="Application.ClassStart5" />
-        <item itemvalue="Application.ClassStart3" />
+        <item itemvalue="Application.MathArrayUtilsMain" />
+        <item itemvalue="Application.CarMain" />
+        <item itemvalue="Application.DecoDataMain" />
+        <item itemvalue="Application.DecoMain2" />
+        <item itemvalue="Application.DecoMain1" />
       </list>
     </recent_temporary>
   </component>
@@ -203,6 +213,8 @@
       <workItem from="1706567879895" duration="6000" />
       <workItem from="1706573264969" duration="20567000" />
       <workItem from="1706608855132" duration="42000" />
+      <workItem from="1706656190272" duration="128000" />
+      <workItem from="1706659186455" duration="21197000" />
     </task>
     <servers />
   </component>
