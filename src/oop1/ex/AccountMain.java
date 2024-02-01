@@ -6,6 +6,6 @@ public class AccountMain {
         account.deposit(10000);
         account.withdraw(9000);
         account.withdraw(2000);
-        System.out.println("잔액 : " + account.balance);
+        System.out.println("잔고 : " + account.balance);
     }
 }

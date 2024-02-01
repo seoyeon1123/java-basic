@@ -46,6 +46,7 @@
     "Application.ClassStart4.executor": "Run",
     "Application.ClassStart5.executor": "Run",
     "Application.ClassStart6.executor": "Run",
+    "Application.ConstantMain1.executor": "Run",
     "Application.ConstructMain1.executor": "Run",
     "Application.ConstructMain2.executor": "Run",
     "Application.CountMain.executor": "Run",
@@ -55,15 +56,19 @@
     "Application.DecoDataMain.executor": "Run",
     "Application.DecoMain1.executor": "Run",
     "Application.DecoMain2.executor": "Run",
+    "Application.FinaFieldMain.executor": "Run",
+    "Application.FinalRefMain.executor": "Run",
     "Application.InitMain.executor": "Run",
     "Application.JavaMemoryMain1.executor": "Run",
     "Application.JavaMemoryMain2.executor": "Run",
     "Application.MathArrayUtilsMain.executor": "Run",
     "Application.MemberDefaultMain.executor": "Run",
+    "Application.MemberMain.executor": "Run",
     "Application.Method1.executor": "Run",
     "Application.Method2.executor": "Run",
     "Application.MethodChange1.executor": "Run",
     "Application.MethodChange2.executor": "Run",
+    "Application.MethodInitMain1.executor": "Run",
     "Application.MethodInitMain2.executor": "Run",
     "Application.MethodInitMain3.executor": "Run",
     "Application.MovieReviewMain.executor": "Run",
@@ -101,20 +106,20 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="final1" />
       <recent name="static2" />
       <recent name="class1" />
       <recent name="pack" />
       <recent name="Construct" />
-      <recent name="oop1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MathArrayUtilsMain">
-    <configuration name="CarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="static2.ex.CarMain" />
+  <component name="RunManager" selected="Application.MemberMain">
+    <configuration name="ConstantMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="final1.ConstantMain1" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="static2.ex.*" />
+          <option name="PATTERN" value="final1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecoDataMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="static2.DecoDataMain" />
+    <configuration name="FinaFieldMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="final1.FinaFieldMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="static2.*" />
+          <option name="PATTERN" value="final1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,25 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecoMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="static2.DecoMain1" />
+    <configuration name="FinalRefMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="final1.FinalRefMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="static2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DecoMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="static2.DecoMain2" />
-      <module name="java-basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="static2.*" />
+          <option name="PATTERN" value="final1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,13 +166,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MemberMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="final1.ex.MemberMain" />
+      <module name="java-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="final1.ex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MemberMain" />
+        <item itemvalue="Application.FinalRefMain" />
+        <item itemvalue="Application.ConstantMain1" />
+        <item itemvalue="Application.FinaFieldMain" />
         <item itemvalue="Application.MathArrayUtilsMain" />
-        <item itemvalue="Application.CarMain" />
-        <item itemvalue="Application.DecoDataMain" />
-        <item itemvalue="Application.DecoMain2" />
-        <item itemvalue="Application.DecoMain1" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +219,11 @@
       <workItem from="1706573264969" duration="20567000" />
       <workItem from="1706608855132" duration="42000" />
       <workItem from="1706656190272" duration="128000" />
-      <workItem from="1706659186455" duration="21197000" />
+      <workItem from="1706659186455" duration="21851000" />
+      <workItem from="1706696042335" duration="62000" />
+      <workItem from="1706699663604" duration="3796000" />
+      <workItem from="1706741236043" duration="9000" />
+      <workItem from="1706746060483" duration="8930000" />
     </task>
     <servers />
   </component>

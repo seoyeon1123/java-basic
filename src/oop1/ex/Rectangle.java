@@ -1,16 +1,17 @@
 package oop1.ex;
 
 public class Rectangle {
-    int width;
-    int height;
+    int width = 5;
+    int height = 8;
 
     int calculateArea(){
-        return width * height;
+       return width * height;
     }
     int calculatePerimeter(){
-        return (width + height) * 2;
+        return 2 *(width + height);
     }
     boolean isSquare(){
         return width == height;
     }
+
 }
