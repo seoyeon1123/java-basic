@@ -14,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -35,15 +36,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AbstractMain.executor": "Run",
     "Application.AccessInnerMain.executor": "Run",
     "Application.AccessOuterMain.executor": "Run",
     "Application.AccountMain.executor": "Run",
+    "Application.AnimalPolyMain.executor": "Run",
+    "Application.AnimalPolyMain2.executor": "Run",
+    "Application.AnimalSoundMain.executor": "Debug",
     "Application.BankAccountMain.executor": "Run",
     "Application.BookMain.executor": "Run",
     "Application.CarMain.executor": "Debug",
     "Application.CastingMain1.executor": "Run",
     "Application.CastingMain4.executor": "Run",
     "Application.CastingMain5.executor": "Run",
+    "Application.CastingMain6.executor": "Run",
     "Application.ClassStart1.executor": "Run",
     "Application.ClassStart2.executor": "Run",
     "Application.ClassStart3.executor": "Run",
@@ -60,10 +66,12 @@
     "Application.DecoDataMain.executor": "Run",
     "Application.DecoMain1.executor": "Run",
     "Application.DecoMain2.executor": "Run",
+    "Application.DiamondMain.executor": "Run",
     "Application.ExtendsAccessMain.executor": "Run",
     "Application.FinaFieldMain.executor": "Run",
     "Application.FinalRefMain.executor": "Run",
     "Application.InitMain.executor": "Run",
+    "Application.InterfaceMain.executor": "Run",
     "Application.JavaMemoryMain1.executor": "Run",
     "Application.JavaMemoryMain2.executor": "Run",
     "Application.MathArrayUtilsMain.executor": "Run",
@@ -83,6 +91,7 @@
     "Application.NullMain1.executor": "Run",
     "Application.NullMain2.executor": "Run",
     "Application.NullMain3.executor": "Run",
+    "Application.OverridingMain.executor": "Run",
     "Application.PackageMain1.executor": "Run",
     "Application.PackageMain2.executor": "Run",
     "Application.PackageMain3.executor": "Run",
@@ -93,6 +102,7 @@
     "Application.RectangleOopMain.executor": "Run",
     "Application.RectangleProceduralMain.executor": "Run",
     "Application.ShopMain.executor": "Run",
+    "Application.SoundFlyMain.executor": "Debug",
     "Application.SpeakerMain.executor": "Run",
     "Application.Super2Main.executor": "Run",
     "Application.SuperMain1.executor": "Run",
@@ -103,12 +113,15 @@
     "Application.extned1.ex2.CarMain.executor": "Run",
     "Application.extned1.ex3.CarMain.executor": "Run",
     "Application.extned1.overriding.CarMain.executor": "Run",
+    "Application.interfaceMain.executor": "Run",
+    "Application.poly.ex2.AnimalSoundMain.executor": "Run",
+    "Application.poly.ex4.AbstractMain.executor": "Run",
     "Application.practice.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/workspace/java-basic/src/extned1/overriding",
+    "last_opened_file_path": "C:/workspace/java-basic/src/poly/ex4",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -119,23 +132,24 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workspace\java-basic\src\poly\ex4" />
       <recent name="C:\workspace\java-basic\src\extned1\overriding" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="poly.ex2" />
       <recent name="poly.basic" />
       <recent name="final1" />
       <recent name="static2" />
       <recent name="class1" />
-      <recent name="pack" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CastingMain6">
-    <configuration name="CastingMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poly.basic.CastingMain1" />
+  <component name="RunManager" selected="Application.SoundFlyMain">
+    <configuration name="DiamondMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.diamond.DiamondMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="poly.basic.*" />
+          <option name="PATTERN" value="poly.diamond.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CastingMain4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poly.basic.CastingMain4" />
+    <configuration name="InterfaceMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.ex5.InterfaceMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="poly.basic.*" />
+          <option name="PATTERN" value="poly.ex5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +170,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CastingMain5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poly.basic.CastingMain5" />
+    <configuration name="SoundFlyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.ex6.SoundFlyMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="poly.basic.*" />
+          <option name="PATTERN" value="poly.ex6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,12 +183,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CastingMain6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poly.basic.CastingMain6" />
+    <configuration name="interfaceMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.ex5.interfaceMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="poly.basic.*" />
+          <option name="PATTERN" value="poly.ex5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,12 +196,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PolyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poly.basic.PolyMain" />
+    <configuration name="poly.ex4.AbstractMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.ex4.AbstractMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="poly.basic.*" />
+          <option name="PATTERN" value="poly.ex4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,11 +211,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CastingMain6" />
-        <item itemvalue="Application.CastingMain5" />
-        <item itemvalue="Application.CastingMain4" />
-        <item itemvalue="Application.CastingMain1" />
-        <item itemvalue="Application.PolyMain" />
+        <item itemvalue="Application.SoundFlyMain" />
+        <item itemvalue="Application.DiamondMain" />
+        <item itemvalue="Application.InterfaceMain" />
+        <item itemvalue="Application.interfaceMain" />
+        <item itemvalue="Application.poly.ex4.AbstractMain" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +255,10 @@
       <workItem from="1706741236043" duration="9000" />
       <workItem from="1706746060483" duration="20937000" />
       <workItem from="1706832221826" duration="15022000" />
-      <workItem from="1707031710104" duration="5306000" />
+      <workItem from="1707031710104" duration="6264000" />
+      <workItem from="1707087124046" duration="6000" />
+      <workItem from="1707091084780" duration="18165000" />
+      <workItem from="1707118527762" duration="2650000" />
     </task>
     <servers />
   </component>
@@ -260,6 +277,11 @@
           <url>file://$PROJECT_DIR$/src/extned1/ex1/GasCar.java</url>
           <line>2</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/poly/ex2/AnimalPolyMain2.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/oop1/MusicPlayerMain3.java</url>
