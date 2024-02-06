@@ -46,6 +46,8 @@
     "Application.BankAccountMain.executor": "Run",
     "Application.BookMain.executor": "Run",
     "Application.CarMain.executor": "Debug",
+    "Application.CarMain0.executor": "Run",
+    "Application.CarMain1.executor": "Run",
     "Application.CastingMain1.executor": "Run",
     "Application.CastingMain4.executor": "Run",
     "Application.CastingMain5.executor": "Run",
@@ -95,12 +97,16 @@
     "Application.PackageMain1.executor": "Run",
     "Application.PackageMain2.executor": "Run",
     "Application.PackageMain3.executor": "Run",
+    "Application.PayMain1.executor": "Run",
+    "Application.PayMain2.executor": "Run",
+    "Application.PayService.executor": "Run",
     "Application.PolyMain.executor": "Run",
     "Application.ProductOrderMain.executor": "Run",
     "Application.ProductOrderMain2.executor": "Run",
     "Application.ProductOrderMain3.executor": "Run",
     "Application.RectangleOopMain.executor": "Run",
     "Application.RectangleProceduralMain.executor": "Run",
+    "Application.SendMain.executor": "Run",
     "Application.ShopMain.executor": "Run",
     "Application.SoundFlyMain.executor": "Debug",
     "Application.SpeakerMain.executor": "Run",
@@ -114,6 +120,7 @@
     "Application.extned1.ex3.CarMain.executor": "Run",
     "Application.extned1.overriding.CarMain.executor": "Run",
     "Application.interfaceMain.executor": "Run",
+    "Application.poly.ex.pay1.PayMain1.executor": "Run",
     "Application.poly.ex2.AnimalSoundMain.executor": "Run",
     "Application.poly.ex4.AbstractMain.executor": "Run",
     "Application.practice.executor": "Run",
@@ -136,20 +143,20 @@
       <recent name="C:\workspace\java-basic\src\extned1\overriding" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="poly.ex.pay1" />
+      <recent name="poly.Car0" />
       <recent name="poly.ex2" />
       <recent name="poly.basic" />
       <recent name="final1" />
-      <recent name="static2" />
-      <recent name="class1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SoundFlyMain">
-    <configuration name="DiamondMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poly.diamond.DiamondMain" />
+  <component name="RunManager" selected="Application.AnimalPolyMain2">
+    <configuration name="AnimalPolyMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.ex2.AnimalPolyMain2" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="poly.diamond.*" />
+          <option name="PATTERN" value="poly.ex2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,12 +164,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfaceMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poly.ex5.InterfaceMain" />
+    <configuration name="PayMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.ex.pay0.PayMain1" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="poly.ex5.*" />
+          <option name="PATTERN" value="poly.ex.pay1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,12 +177,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SoundFlyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poly.ex6.SoundFlyMain" />
+    <configuration name="PayMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.ex.pay1.PayMain2" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="poly.ex6.*" />
+          <option name="PATTERN" value="poly.ex.pay1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,12 +190,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="interfaceMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poly.ex5.interfaceMain" />
+    <configuration name="SendMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.ex.sender.SendMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="poly.ex5.*" />
+          <option name="PATTERN" value="poly.ex.sender.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,12 +203,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="poly.ex4.AbstractMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poly.ex4.AbstractMain" />
+    <configuration name="poly.ex.pay1.PayMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.ex.pay1.PayMain1" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="poly.ex4.*" />
+          <option name="PATTERN" value="poly.ex.pay1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SoundFlyMain" />
-        <item itemvalue="Application.DiamondMain" />
-        <item itemvalue="Application.InterfaceMain" />
-        <item itemvalue="Application.interfaceMain" />
-        <item itemvalue="Application.poly.ex4.AbstractMain" />
+        <item itemvalue="Application.AnimalPolyMain2" />
+        <item itemvalue="Application.PayMain2" />
+        <item itemvalue="Application.poly.ex.pay1.PayMain1" />
+        <item itemvalue="Application.SendMain" />
+        <item itemvalue="Application.PayMain1" />
       </list>
     </recent_temporary>
   </component>
@@ -258,7 +265,8 @@
       <workItem from="1707031710104" duration="6264000" />
       <workItem from="1707087124046" duration="6000" />
       <workItem from="1707091084780" duration="18165000" />
-      <workItem from="1707118527762" duration="2650000" />
+      <workItem from="1707118527762" duration="2787000" />
+      <workItem from="1707176621901" duration="18313000" />
     </task>
     <servers />
   </component>
@@ -277,11 +285,6 @@
           <url>file://$PROJECT_DIR$/src/extned1/ex1/GasCar.java</url>
           <line>2</line>
           <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/poly/ex2/AnimalPolyMain2.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/oop1/MusicPlayerMain3.java</url>
