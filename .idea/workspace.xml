@@ -43,12 +43,17 @@
     "Application.AccessInnerMain.executor": "Run",
     "Application.AccessOuterMain.executor": "Run",
     "Application.AccountMain.executor": "Run",
+    "Application.AgencyMain.executor": "Run",
     "Application.AnimalPolyMain.executor": "Run",
     "Application.AnimalPolyMain2.executor": "Run",
     "Application.AnimalSoundMain.executor": "Debug",
     "Application.Bank.executor": "Run",
     "Application.BankAccountMain.executor": "Run",
     "Application.BookMain.executor": "Run",
+    "Application.BoxEample.executor": "Run",
+    "Application.BoxMain.executor": "Run",
+    "Application.BoxMain1.executor": "Run",
+    "Application.BoxMain2.executor": "Run",
     "Application.CarMain.executor": "Debug",
     "Application.CarMain0.executor": "Run",
     "Application.CarMain1.executor": "Run",
@@ -87,6 +92,8 @@
     "Application.InterfaceMain.executor": "Run",
     "Application.JavaMemoryMain1.executor": "Run",
     "Application.JavaMemoryMain2.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MartMain.executor": "Run",
     "Application.MathArrayUtilsMain.executor": "Run",
     "Application.MemberDefaultMain.executor": "Run",
     "Application.MemberMain.executor": "Run",
@@ -173,13 +180,13 @@
       <recent name="poly.ex2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PersonMain">
-    <configuration name="MemberMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="object.ex1.MemberMain" />
+  <component name="RunManager" selected="Application.BoxMain">
+    <configuration name="AgencyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generic.ex1.AgencyMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="object.ex1.*" />
+          <option name="PATTERN" value="Generic.ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,12 +194,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="object.ex4.PersonMain" />
+    <configuration name="BoxEample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generic.Box1.BoxEample" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="object.ex4.*" />
+          <option name="PATTERN" value="Generic.Box1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,12 +207,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmartPhoneMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="object.ex3.SmartPhoneMain" />
+    <configuration name="BoxMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generic.Box2.BoxMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="object.ex3.*" />
+          <option name="PATTERN" value="Generic.Box2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,12 +220,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="object.ex2.StudentMain" />
+    <configuration name="BoxMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generic.Box.BoxMain2" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="object.ex1.*" />
+          <option name="PATTERN" value="Generic.Box.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,12 +233,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="object.ex2.StudentMain2" />
+    <configuration name="MartMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generic.Car.MartMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="object.ex1.*" />
+          <option name="PATTERN" value="Generic.Car.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -241,11 +248,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PersonMain" />
-        <item itemvalue="Application.SmartPhoneMain" />
-        <item itemvalue="Application.StudentMain2" />
-        <item itemvalue="Application.StudentMain" />
-        <item itemvalue="Application.MemberMain" />
+        <item itemvalue="Application.BoxMain" />
+        <item itemvalue="Application.BoxMain2" />
+        <item itemvalue="Application.BoxEample" />
+        <item itemvalue="Application.AgencyMain" />
+        <item itemvalue="Application.MartMain" />
       </list>
     </recent_temporary>
   </component>
@@ -292,7 +299,7 @@
       <workItem from="1707176621901" duration="21725000" />
       <workItem from="1707260271160" duration="26000" />
       <workItem from="1707265091431" duration="21741000" />
-      <workItem from="1707351258252" duration="8261000" />
+      <workItem from="1707351258252" duration="27043000" />
     </task>
     <servers />
   </component>
