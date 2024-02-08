@@ -112,6 +112,7 @@
     "Application.PayMain1.executor": "Run",
     "Application.PayMain2.executor": "Run",
     "Application.PayService.executor": "Run",
+    "Application.PersonMain.executor": "Run",
     "Application.PolyMain.executor": "Run",
     "Application.Practice.executor": "Run",
     "Application.ProductOrderMain.executor": "Run",
@@ -122,8 +123,11 @@
     "Application.RectangleProceduralMain.executor": "Run",
     "Application.SendMain.executor": "Run",
     "Application.ShopMain.executor": "Run",
+    "Application.SmartPhoneMain.executor": "Run",
     "Application.SoundFlyMain.executor": "Run",
     "Application.SpeakerMain.executor": "Run",
+    "Application.StudentMain.executor": "Run",
+    "Application.StudentMain2.executor": "Run",
     "Application.Super2Main.executor": "Run",
     "Application.SuperMain1.executor": "Run",
     "Application.Throw1.executor": "Run",
@@ -169,13 +173,13 @@
       <recent name="poly.ex2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Practice">
-    <configuration name="FIleWriterExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exception.file.FIleWriterExample" />
+  <component name="RunManager" selected="Application.PersonMain">
+    <configuration name="MemberMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="object.ex1.MemberMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exception.file.*" />
+          <option name="PATTERN" value="object.ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,12 +187,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exception.ex8.Practice" />
+    <configuration name="PersonMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="object.ex4.PersonMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exception.ex8.*" />
+          <option name="PATTERN" value="object.ex4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,12 +200,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PropagationMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exception.perform.PropagationMain" />
+    <configuration name="SmartPhoneMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="object.ex3.SmartPhoneMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exception.perform.*" />
+          <option name="PATTERN" value="object.ex3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,12 +213,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exception.account2.Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exception.account2.Bank" />
+    <configuration name="StudentMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="object.ex2.StudentMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exception.account2.*" />
+          <option name="PATTERN" value="object.ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -222,12 +226,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exception.account3.Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exception.account3.Bank" />
+    <configuration name="StudentMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="object.ex2.StudentMain2" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exception.account3.*" />
+          <option name="PATTERN" value="object.ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -237,11 +241,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Practice" />
-        <item itemvalue="Application.FIleWriterExample" />
-        <item itemvalue="Application.exception.account3.Bank" />
-        <item itemvalue="Application.PropagationMain" />
-        <item itemvalue="Application.exception.account2.Bank" />
+        <item itemvalue="Application.PersonMain" />
+        <item itemvalue="Application.SmartPhoneMain" />
+        <item itemvalue="Application.StudentMain2" />
+        <item itemvalue="Application.StudentMain" />
+        <item itemvalue="Application.MemberMain" />
       </list>
     </recent_temporary>
   </component>
@@ -288,6 +292,7 @@
       <workItem from="1707176621901" duration="21725000" />
       <workItem from="1707260271160" duration="26000" />
       <workItem from="1707265091431" duration="21741000" />
+      <workItem from="1707351258252" duration="8261000" />
     </task>
     <servers />
   </component>
@@ -311,6 +316,11 @@
           <url>file://$PROJECT_DIR$/src/exception/ex6/FileWriterMain.java</url>
           <line>5</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/object/ex2/StudentMain2.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/oop1/MusicPlayerMain3.java</url>
