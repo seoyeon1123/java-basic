@@ -22,6 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -43,11 +46,14 @@
     "Application.AnimalPolyMain.executor": "Run",
     "Application.AnimalPolyMain2.executor": "Run",
     "Application.AnimalSoundMain.executor": "Debug",
+    "Application.Bank.executor": "Run",
     "Application.BankAccountMain.executor": "Run",
     "Application.BookMain.executor": "Run",
     "Application.CarMain.executor": "Debug",
     "Application.CarMain0.executor": "Run",
     "Application.CarMain1.executor": "Run",
+    "Application.Case1.executor": "Run",
+    "Application.Case2.executor": "Run",
     "Application.CastingMain1.executor": "Run",
     "Application.CastingMain4.executor": "Run",
     "Application.CastingMain5.executor": "Run",
@@ -62,6 +68,7 @@
     "Application.ConstructMain1.executor": "Run",
     "Application.ConstructMain2.executor": "Run",
     "Application.CountMain.executor": "Run",
+    "Application.CustomExceptionMain.executor": "Run",
     "Application.DataCountMain1.executor": "Run",
     "Application.DataCountMain2.executor": "Run",
     "Application.DataCountMain3.executor": "Run",
@@ -69,7 +76,11 @@
     "Application.DecoMain1.executor": "Run",
     "Application.DecoMain2.executor": "Run",
     "Application.DiamondMain.executor": "Run",
+    "Application.DivisionMain.executor": "Run",
     "Application.ExtendsAccessMain.executor": "Run",
+    "Application.FIleWriterExample.executor": "Run",
+    "Application.FileReadMain.executor": "Run",
+    "Application.FileWriterMain.executor": "Run",
     "Application.FinaFieldMain.executor": "Run",
     "Application.FinalRefMain.executor": "Run",
     "Application.InitMain.executor": "Run",
@@ -93,6 +104,7 @@
     "Application.NullMain1.executor": "Run",
     "Application.NullMain2.executor": "Run",
     "Application.NullMain3.executor": "Run",
+    "Application.ObjectBoxMain.executor": "Run",
     "Application.OverridingMain.executor": "Run",
     "Application.PackageMain1.executor": "Run",
     "Application.PackageMain2.executor": "Run",
@@ -101,21 +113,27 @@
     "Application.PayMain2.executor": "Run",
     "Application.PayService.executor": "Run",
     "Application.PolyMain.executor": "Run",
+    "Application.Practice.executor": "Run",
     "Application.ProductOrderMain.executor": "Run",
     "Application.ProductOrderMain2.executor": "Run",
     "Application.ProductOrderMain3.executor": "Run",
+    "Application.PropagationMain.executor": "Run",
     "Application.RectangleOopMain.executor": "Run",
     "Application.RectangleProceduralMain.executor": "Run",
     "Application.SendMain.executor": "Run",
     "Application.ShopMain.executor": "Run",
-    "Application.SoundFlyMain.executor": "Debug",
+    "Application.SoundFlyMain.executor": "Run",
     "Application.SpeakerMain.executor": "Run",
     "Application.Super2Main.executor": "Run",
     "Application.SuperMain1.executor": "Run",
+    "Application.Throw1.executor": "Run",
+    "Application.Throws.executor": "Run",
     "Application.ValueDataMain.executor": "Run",
     "Application.ValueObjectMain.executor": "Run",
     "Application.VarChange1.executor": "Run",
     "Application.VarChange2.executor": "Run",
+    "Application.exception.account2.Bank.executor": "Run",
+    "Application.exception.account3.Bank.executor": "Run",
     "Application.extned1.ex2.CarMain.executor": "Run",
     "Application.extned1.ex3.CarMain.executor": "Run",
     "Application.extned1.overriding.CarMain.executor": "Run",
@@ -128,7 +146,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/workspace/java-basic/src/poly/ex4",
+    "last_opened_file_path": "C:/workspace/java-basic/src/exception/account2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -139,24 +157,25 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workspace\java-basic\src\exception\account2" />
       <recent name="C:\workspace\java-basic\src\poly\ex4" />
       <recent name="C:\workspace\java-basic\src\extned1\overriding" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="exception.transaction" />
+      <recent name="exception.account3" />
       <recent name="poly.ex.pay1" />
       <recent name="poly.Car0" />
       <recent name="poly.ex2" />
-      <recent name="poly.basic" />
-      <recent name="final1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AnimalPolyMain2">
-    <configuration name="AnimalPolyMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poly.ex2.AnimalPolyMain2" />
+  <component name="RunManager" selected="Application.Practice">
+    <configuration name="FIleWriterExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception.file.FIleWriterExample" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="poly.ex2.*" />
+          <option name="PATTERN" value="exception.file.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,12 +183,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PayMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poly.ex.pay0.PayMain1" />
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception.ex8.Practice" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="poly.ex.pay1.*" />
+          <option name="PATTERN" value="exception.ex8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,12 +196,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PayMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poly.ex.pay1.PayMain2" />
+    <configuration name="PropagationMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception.perform.PropagationMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="poly.ex.pay1.*" />
+          <option name="PATTERN" value="exception.perform.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,12 +209,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SendMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poly.ex.sender.SendMain" />
+    <configuration name="exception.account2.Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception.account2.Bank" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="poly.ex.sender.*" />
+          <option name="PATTERN" value="exception.account2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,12 +222,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="poly.ex.pay1.PayMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poly.ex.pay1.PayMain1" />
+    <configuration name="exception.account3.Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception.account3.Bank" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="poly.ex.pay1.*" />
+          <option name="PATTERN" value="exception.account3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,11 +237,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AnimalPolyMain2" />
-        <item itemvalue="Application.PayMain2" />
-        <item itemvalue="Application.poly.ex.pay1.PayMain1" />
-        <item itemvalue="Application.SendMain" />
-        <item itemvalue="Application.PayMain1" />
+        <item itemvalue="Application.Practice" />
+        <item itemvalue="Application.FIleWriterExample" />
+        <item itemvalue="Application.exception.account3.Bank" />
+        <item itemvalue="Application.PropagationMain" />
+        <item itemvalue="Application.exception.account2.Bank" />
       </list>
     </recent_temporary>
   </component>
@@ -266,7 +285,9 @@
       <workItem from="1707087124046" duration="6000" />
       <workItem from="1707091084780" duration="18165000" />
       <workItem from="1707118527762" duration="2787000" />
-      <workItem from="1707176621901" duration="18313000" />
+      <workItem from="1707176621901" duration="21725000" />
+      <workItem from="1707260271160" duration="26000" />
+      <workItem from="1707265091431" duration="21741000" />
     </task>
     <servers />
   </component>
@@ -286,6 +307,11 @@
           <line>2</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exception/ex6/FileWriterMain.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/oop1/MusicPlayerMain3.java</url>
           <line>30</line>
@@ -298,6 +324,10 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NullPointerException" package="java.lang" />
           <option name="timeStamp" value="8" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArithmeticException" package="java.lang" />
+          <option name="timeStamp" value="13" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
