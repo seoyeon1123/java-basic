@@ -43,6 +43,8 @@
     "Application.AccessInnerMain.executor": "Run",
     "Application.AccessOuterMain.executor": "Run",
     "Application.AccountMain.executor": "Run",
+    "Application.AddMain.executor": "Run",
+    "Application.AddMain2.executor": "Run",
     "Application.AgencyMain.executor": "Run",
     "Application.AnimalPolyMain.executor": "Run",
     "Application.AnimalPolyMain2.executor": "Run",
@@ -54,6 +56,7 @@
     "Application.BoxMain.executor": "Run",
     "Application.BoxMain1.executor": "Run",
     "Application.BoxMain2.executor": "Run",
+    "Application.CalculateMain.executor": "Run",
     "Application.CarMain.executor": "Debug",
     "Application.CarMain0.executor": "Run",
     "Application.CarMain1.executor": "Run",
@@ -92,6 +95,7 @@
     "Application.InterfaceMain.executor": "Run",
     "Application.JavaMemoryMain1.executor": "Run",
     "Application.JavaMemoryMain2.executor": "Run",
+    "Application.LambdaMain.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MartMain.executor": "Run",
     "Application.MathArrayUtilsMain.executor": "Run",
@@ -143,12 +147,14 @@
     "Application.ValueObjectMain.executor": "Run",
     "Application.VarChange1.executor": "Run",
     "Application.VarChange2.executor": "Run",
+    "Application.WorkMain.executor": "Run",
     "Application.exception.account2.Bank.executor": "Run",
     "Application.exception.account3.Bank.executor": "Run",
     "Application.extned1.ex2.CarMain.executor": "Run",
     "Application.extned1.ex3.CarMain.executor": "Run",
     "Application.extned1.overriding.CarMain.executor": "Run",
     "Application.interfaceMain.executor": "Run",
+    "Application.lambda.ex3.PersonMain.executor": "Run",
     "Application.poly.ex.pay1.PayMain1.executor": "Run",
     "Application.poly.ex2.AnimalSoundMain.executor": "Run",
     "Application.poly.ex4.AbstractMain.executor": "Run",
@@ -173,20 +179,20 @@
       <recent name="C:\workspace\java-basic\src\extned1\overriding" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lambda" />
       <recent name="exception.transaction" />
       <recent name="exception.account3" />
       <recent name="poly.ex.pay1" />
       <recent name="poly.Car0" />
-      <recent name="poly.ex2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BoxMain">
-    <configuration name="AgencyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Generic.ex1.AgencyMain" />
+  <component name="RunManager" selected="Application.lambda.ex3.PersonMain">
+    <configuration name="AddMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambda.add.AddMain2" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Generic.ex1.*" />
+          <option name="PATTERN" value="lambda.add.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,12 +200,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BoxEample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Generic.Box1.BoxEample" />
+    <configuration name="CalculateMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambda.calculable.CalculateMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Generic.Box1.*" />
+          <option name="PATTERN" value="lambda.calculable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,12 +213,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BoxMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Generic.Box2.BoxMain" />
+    <configuration name="PersonMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambda.ex2.PersonMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Generic.Box2.*" />
+          <option name="PATTERN" value="lambda.ex2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -220,12 +226,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BoxMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Generic.Box.BoxMain2" />
+    <configuration name="WorkMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambda.ex1.WorkMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Generic.Box.*" />
+          <option name="PATTERN" value="lambda.ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,12 +239,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MartMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Generic.Car.MartMain" />
+    <configuration name="lambda.ex3.PersonMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambda.ex3.PersonMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Generic.Car.*" />
+          <option name="PATTERN" value="lambda.ex3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -248,11 +254,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BoxMain" />
-        <item itemvalue="Application.BoxMain2" />
-        <item itemvalue="Application.BoxEample" />
-        <item itemvalue="Application.AgencyMain" />
-        <item itemvalue="Application.MartMain" />
+        <item itemvalue="Application.lambda.ex3.PersonMain" />
+        <item itemvalue="Application.PersonMain" />
+        <item itemvalue="Application.WorkMain" />
+        <item itemvalue="Application.CalculateMain" />
+        <item itemvalue="Application.AddMain2" />
       </list>
     </recent_temporary>
   </component>
@@ -299,7 +305,7 @@
       <workItem from="1707176621901" duration="21725000" />
       <workItem from="1707260271160" duration="26000" />
       <workItem from="1707265091431" duration="21741000" />
-      <workItem from="1707351258252" duration="27043000" />
+      <workItem from="1707351258252" duration="37201000" />
     </task>
     <servers />
   </component>
@@ -328,6 +334,16 @@
           <url>file://$PROJECT_DIR$/src/object/ex2/StudentMain2.java</url>
           <line>4</line>
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lambda/LambdaInterFace/LambdaMain.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lambda/IAdd/IAddMain.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/oop1/MusicPlayerMain3.java</url>
