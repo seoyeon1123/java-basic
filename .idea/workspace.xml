@@ -51,6 +51,7 @@
     "Application.AnimalSoundMain.executor": "Debug",
     "Application.Bank.executor": "Run",
     "Application.BankAccountMain.executor": "Run",
+    "Application.BoardMain.executor": "Run",
     "Application.BookMain.executor": "Run",
     "Application.BoxEample.executor": "Run",
     "Application.BoxMain.executor": "Run",
@@ -91,6 +92,7 @@
     "Application.FileWriterMain.executor": "Run",
     "Application.FinaFieldMain.executor": "Run",
     "Application.FinalRefMain.executor": "Run",
+    "Application.HashMapExample.executor": "Run",
     "Application.InitMain.executor": "Run",
     "Application.InterfaceMain.executor": "Run",
     "Application.JavaMemoryMain1.executor": "Run",
@@ -133,6 +135,7 @@
     "Application.RectangleOopMain.executor": "Run",
     "Application.RectangleProceduralMain.executor": "Run",
     "Application.SendMain.executor": "Run",
+    "Application.SetExample.executor": "Run",
     "Application.ShopMain.executor": "Run",
     "Application.SmartPhoneMain.executor": "Run",
     "Application.SoundFlyMain.executor": "Run",
@@ -147,7 +150,10 @@
     "Application.ValueObjectMain.executor": "Run",
     "Application.VarChange1.executor": "Run",
     "Application.VarChange2.executor": "Run",
+    "Application.Vector1.executor": "Run",
+    "Application.VectorExample.executor": "Run",
     "Application.WorkMain.executor": "Run",
+    "Application.collections.executor": "Run",
     "Application.exception.account2.Bank.executor": "Run",
     "Application.exception.account3.Bank.executor": "Run",
     "Application.extned1.ex2.CarMain.executor": "Run",
@@ -181,20 +187,20 @@
       <recent name="C:\workspace\java-basic\src\extned1\overriding" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="collection.set" />
+      <recent name="collection.vector" />
       <recent name="lambda" />
       <recent name="exception.transaction" />
       <recent name="exception.account3" />
-      <recent name="poly.ex.pay1" />
-      <recent name="poly.Car0" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StudentMain">
-    <configuration name="PersonMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambda.ex2.PersonMain" />
+  <component name="RunManager" selected="Application.HashMapExample">
+    <configuration name="HashMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.map.HashMapExample" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambda.ex2.*" />
+          <option name="PATTERN" value="collection.map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,12 +208,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambda.ex7.StudentMain" />
+    <configuration name="MemberMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.set.MemberMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambda.ex7.*" />
+          <option name="PATTERN" value="collection.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,12 +221,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lambda.ex3.PersonMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambda.ex3.PersonMain" />
+    <configuration name="SetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.set.SetExample" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambda.ex3.*" />
+          <option name="PATTERN" value="collection.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,12 +234,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lambda.ex4.PersonMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambda.ex4.PersonMain" />
+    <configuration name="Vector1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.vector.Vector1" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambda.ex4.*" />
+          <option name="PATTERN" value="collection.vector.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -241,12 +247,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lambda.ex6.PersonMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambda.ex6.PersonMain" />
+    <configuration name="VectorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.vector.VectorExample" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambda.ex6.*" />
+          <option name="PATTERN" value="collection.vector.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -256,11 +262,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StudentMain" />
-        <item itemvalue="Application.lambda.ex6.PersonMain" />
-        <item itemvalue="Application.lambda.ex4.PersonMain" />
-        <item itemvalue="Application.lambda.ex3.PersonMain" />
-        <item itemvalue="Application.PersonMain" />
+        <item itemvalue="Application.HashMapExample" />
+        <item itemvalue="Application.MemberMain" />
+        <item itemvalue="Application.SetExample" />
+        <item itemvalue="Application.VectorExample" />
+        <item itemvalue="Application.Vector1" />
       </list>
     </recent_temporary>
   </component>
@@ -309,7 +315,7 @@
       <workItem from="1707265091431" duration="21741000" />
       <workItem from="1707351258252" duration="37685000" />
       <workItem from="1707662520676" duration="6000" />
-      <workItem from="1707785538854" duration="7234000" />
+      <workItem from="1707785538854" duration="17861000" />
     </task>
     <servers />
   </component>
