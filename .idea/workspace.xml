@@ -73,6 +73,7 @@
     "Application.ClassStart4.executor": "Run",
     "Application.ClassStart5.executor": "Run",
     "Application.ClassStart6.executor": "Run",
+    "Application.CoinMain.executor": "Run",
     "Application.ConstantMain1.executor": "Run",
     "Application.ConstructMain1.executor": "Run",
     "Application.ConstructMain2.executor": "Run",
@@ -98,11 +99,14 @@
     "Application.JavaMemoryMain1.executor": "Run",
     "Application.JavaMemoryMain2.executor": "Run",
     "Application.LambdaMain.executor": "Run",
+    "Application.LinkedListExample.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MapExample.executor": "Run",
     "Application.MartMain.executor": "Run",
     "Application.MathArrayUtilsMain.executor": "Run",
     "Application.MemberDefaultMain.executor": "Run",
     "Application.MemberMain.executor": "Run",
+    "Application.MessageMain.executor": "Run",
     "Application.Method1.executor": "Run",
     "Application.Method2.executor": "Run",
     "Application.MethodChange1.executor": "Run",
@@ -171,7 +175,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/workspace/java-basic/src/exception/account2",
+    "last_opened_file_path": "C:/Spring/hello-spring/hello-spring/build.gradle",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -194,7 +198,20 @@
       <recent name="exception.account3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HashMapExample">
+  <component name="RunManager" selected="Application.MessageMain">
+    <configuration name="CoinMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.stack.CoinMain" />
+      <module name="java-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collection.stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HashMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collection.map.HashMapExample" />
       <module name="java-basic" />
@@ -208,12 +225,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MemberMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.set.MemberMain" />
+    <configuration name="LinkedListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.arraylist.LinkedListExample" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.set.*" />
+          <option name="PATTERN" value="collection.arraylist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -221,12 +238,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.set.SetExample" />
+    <configuration name="MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.MapExample" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.set.*" />
+          <option name="PATTERN" value="collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,25 +251,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Vector1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.vector.Vector1" />
+    <configuration name="MessageMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.queue.MessageMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.vector.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VectorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.vector.VectorExample" />
-      <module name="java-basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collection.vector.*" />
+          <option name="PATTERN" value="collection.queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -262,11 +266,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MessageMain" />
+        <item itemvalue="Application.CoinMain" />
+        <item itemvalue="Application.LinkedListExample" />
+        <item itemvalue="Application.MapExample" />
         <item itemvalue="Application.HashMapExample" />
-        <item itemvalue="Application.MemberMain" />
-        <item itemvalue="Application.SetExample" />
-        <item itemvalue="Application.VectorExample" />
-        <item itemvalue="Application.Vector1" />
       </list>
     </recent_temporary>
   </component>
@@ -315,7 +319,8 @@
       <workItem from="1707265091431" duration="21741000" />
       <workItem from="1707351258252" duration="37685000" />
       <workItem from="1707662520676" duration="6000" />
-      <workItem from="1707785538854" duration="17861000" />
+      <workItem from="1707785538854" duration="17946000" />
+      <workItem from="1707868380646" duration="5999000" />
     </task>
     <servers />
   </component>
